@@ -1,0 +1,10 @@
+p{
+    font-weight: bold;
+    color: red;
+    border-style: solid;
+    border-color: red;
+}
+ul{
+    color: red;
+    text-decoration: underline;
+}
